@@ -1,0 +1,257 @@
+treatment,subjectID,week,movement
+control,1,week0,16
+control,1,week1,17
+control,1,week2,16
+control,1,week3,18
+control,2,week0,14
+control,2,week1,17
+control,2,week2,17
+control,2,week3,15
+control,3,week0,13
+control,3,week1,12
+control,3,week2,18
+control,3,week3,18
+control,4,week0,17
+control,4,week1,10
+control,4,week2,16
+control,4,week3,17
+control,5,week0,14
+control,5,week1,17
+control,5,week2,17
+control,5,week3,18
+control,6,week0,18
+control,6,week1,18
+control,6,week2,18
+control,6,week3,13
+control,7,week0,11
+control,7,week1,16
+control,7,week2,18
+control,7,week3,14
+control,8,week0,13
+control,8,week1,15
+control,8,week2,16
+control,8,week3,16
+control,9,week0,14
+control,9,week1,13
+control,9,week2,16
+control,9,week3,20
+control,10,week0,13
+control,10,week1,18
+control,10,week2,18
+control,10,week3,17
+control,11,week0,14
+control,11,week1,17
+control,11,week2,22
+control,11,week3,19
+control,12,week0,14
+control,12,week1,13
+control,12,week2,12
+control,12,week3,12
+control,13,week0,13
+control,13,week1,15
+control,13,week2,18
+control,13,week3,20
+control,14,week0,16
+control,14,week1,18
+control,14,week2,18
+control,14,week3,17
+control,15,week0,14
+control,15,week1,14
+control,15,week2,17
+control,15,week3,16
+control,16,week0,14
+control,16,week1,11
+control,16,week2,21
+control,16,week3,23
+neuromodulation,17,week0,16
+neuromodulation,17,week1,19
+neuromodulation,17,week2,18
+neuromodulation,17,week3,23
+neuromodulation,18,week0,20
+neuromodulation,18,week1,16
+neuromodulation,18,week2,17
+neuromodulation,18,week3,19
+neuromodulation,19,week0,18
+neuromodulation,19,week1,18
+neuromodulation,19,week2,18
+neuromodulation,19,week3,21
+neuromodulation,20,week0,17
+neuromodulation,20,week1,16
+neuromodulation,20,week2,19
+neuromodulation,20,week3,19
+neuromodulation,21,week0,15
+neuromodulation,21,week1,15
+neuromodulation,21,week2,15
+neuromodulation,21,week3,20
+neuromodulation,22,week0,16
+neuromodulation,22,week1,12
+neuromodulation,22,week2,14
+neuromodulation,22,week3,17
+neuromodulation,23,week0,18
+neuromodulation,23,week1,17
+neuromodulation,23,week2,18
+neuromodulation,23,week3,18
+neuromodulation,24,week0,17
+neuromodulation,24,week1,17
+neuromodulation,24,week2,21
+neuromodulation,24,week3,18
+neuromodulation,25,week0,17
+neuromodulation,25,week1,18
+neuromodulation,25,week2,20
+neuromodulation,25,week3,23
+neuromodulation,26,week0,17
+neuromodulation,26,week1,21
+neuromodulation,26,week2,19
+neuromodulation,26,week3,21
+neuromodulation,27,week0,17
+neuromodulation,27,week1,16
+neuromodulation,27,week2,16
+neuromodulation,27,week3,19
+neuromodulation,28,week0,14
+neuromodulation,28,week1,16
+neuromodulation,28,week2,20
+neuromodulation,28,week3,23
+neuromodulation,29,week0,15
+neuromodulation,29,week1,18
+neuromodulation,29,week2,19
+neuromodulation,29,week3,25
+neuromodulation,30,week0,15
+neuromodulation,30,week1,15
+neuromodulation,30,week2,18
+neuromodulation,30,week3,20
+neuromodulation,31,week0,20
+neuromodulation,31,week1,17
+neuromodulation,31,week2,18
+neuromodulation,31,week3,17
+neuromodulation,32,week0,17
+neuromodulation,32,week1,15
+neuromodulation,32,week2,18
+neuromodulation,32,week3,24
+physical therapy,33,week0,12
+physical therapy,33,week1,14
+physical therapy,33,week2,16
+physical therapy,33,week3,18
+physical therapy,34,week0,19
+physical therapy,34,week1,15
+physical therapy,34,week2,21
+physical therapy,34,week3,20
+physical therapy,35,week0,16
+physical therapy,35,week1,19
+physical therapy,35,week2,20
+physical therapy,35,week3,20
+physical therapy,36,week0,15
+physical therapy,36,week1,20
+physical therapy,36,week2,22
+physical therapy,36,week3,18
+physical therapy,37,week0,16
+physical therapy,37,week1,17
+physical therapy,37,week2,19
+physical therapy,37,week3,15
+physical therapy,38,week0,15
+physical therapy,38,week1,20
+physical therapy,38,week2,22
+physical therapy,38,week3,21
+physical therapy,39,week0,18
+physical therapy,39,week1,16
+physical therapy,39,week2,19
+physical therapy,39,week3,20
+physical therapy,40,week0,20
+physical therapy,40,week1,20
+physical therapy,40,week2,19
+physical therapy,40,week3,17
+physical therapy,41,week0,17
+physical therapy,41,week1,19
+physical therapy,41,week2,16
+physical therapy,41,week3,19
+physical therapy,42,week0,17
+physical therapy,42,week1,18
+physical therapy,42,week2,18
+physical therapy,42,week3,20
+physical therapy,43,week0,14
+physical therapy,43,week1,15
+physical therapy,43,week2,16
+physical therapy,43,week3,15
+physical therapy,44,week0,17
+physical therapy,44,week1,16
+physical therapy,44,week2,16
+physical therapy,44,week3,16
+physical therapy,45,week0,16
+physical therapy,45,week1,16
+physical therapy,45,week2,14
+physical therapy,45,week3,17
+physical therapy,46,week0,13
+physical therapy,46,week1,14
+physical therapy,46,week2,17
+physical therapy,46,week3,21
+physical therapy,47,week0,15
+physical therapy,47,week1,17
+physical therapy,47,week2,16
+physical therapy,47,week3,15
+physical therapy,48,week0,17
+physical therapy,48,week1,18
+physical therapy,48,week2,17
+physical therapy,48,week3,21
+neuro + PT,49,week0,14
+neuro + PT,49,week1,20
+neuro + PT,49,week2,21
+neuro + PT,49,week3,21
+neuro + PT,50,week0,20
+neuro + PT,50,week1,18
+neuro + PT,50,week2,17
+neuro + PT,50,week3,17
+neuro + PT,51,week0,15
+neuro + PT,51,week1,16
+neuro + PT,51,week2,18
+neuro + PT,51,week3,17
+neuro + PT,52,week0,17
+neuro + PT,52,week1,19
+neuro + PT,52,week2,18
+neuro + PT,52,week3,17
+neuro + PT,53,week0,16
+neuro + PT,53,week1,13
+neuro + PT,53,week2,18
+neuro + PT,53,week3,20
+neuro + PT,54,week0,17
+neuro + PT,54,week1,17
+neuro + PT,54,week2,21
+neuro + PT,54,week3,19
+neuro + PT,55,week0,23
+neuro + PT,55,week1,21
+neuro + PT,55,week2,18
+neuro + PT,55,week3,20
+neuro + PT,56,week0,15
+neuro + PT,56,week1,20
+neuro + PT,56,week2,19
+neuro + PT,56,week3,15
+neuro + PT,57,week0,12
+neuro + PT,57,week1,17
+neuro + PT,57,week2,19
+neuro + PT,57,week3,21
+neuro + PT,58,week0,17
+neuro + PT,58,week1,16
+neuro + PT,58,week2,16
+neuro + PT,58,week3,23
+neuro + PT,59,week0,19
+neuro + PT,59,week1,19
+neuro + PT,59,week2,21
+neuro + PT,59,week3,17
+neuro + PT,60,week0,17
+neuro + PT,60,week1,20
+neuro + PT,60,week2,16
+neuro + PT,60,week3,17
+neuro + PT,61,week0,20
+neuro + PT,61,week1,19
+neuro + PT,61,week2,21
+neuro + PT,61,week3,20
+neuro + PT,62,week0,20
+neuro + PT,62,week1,18
+neuro + PT,62,week2,18
+neuro + PT,62,week3,19
+neuro + PT,63,week0,16
+neuro + PT,63,week1,17
+neuro + PT,63,week2,22
+neuro + PT,63,week3,19
+neuro + PT,64,week0,17
+neuro + PT,64,week1,20
+neuro + PT,64,week2,19
+neuro + PT,64,week3,19

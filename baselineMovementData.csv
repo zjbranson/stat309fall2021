@@ -1,0 +1,65 @@
+treatment,baselineMovement,movement
+control,16,18
+control,14,15
+control,13,18
+control,17,17
+control,14,18
+control,18,13
+control,11,14
+control,13,16
+control,14,20
+control,13,17
+control,14,19
+control,14,12
+control,13,20
+control,16,17
+control,14,16
+control,14,23
+neuromodulation,16,23
+neuromodulation,20,19
+neuromodulation,18,21
+neuromodulation,17,19
+neuromodulation,15,20
+neuromodulation,16,17
+neuromodulation,18,18
+neuromodulation,17,18
+neuromodulation,17,23
+neuromodulation,17,21
+neuromodulation,17,19
+neuromodulation,14,23
+neuromodulation,15,25
+neuromodulation,15,20
+neuromodulation,20,17
+neuromodulation,17,24
+physical therapy,12,18
+physical therapy,19,20
+physical therapy,16,20
+physical therapy,15,18
+physical therapy,16,15
+physical therapy,15,21
+physical therapy,18,20
+physical therapy,20,17
+physical therapy,17,19
+physical therapy,17,20
+physical therapy,14,15
+physical therapy,17,16
+physical therapy,16,17
+physical therapy,13,21
+physical therapy,15,15
+physical therapy,17,21
+neuro + PT,14,21
+neuro + PT,20,17
+neuro + PT,15,17
+neuro + PT,17,17
+neuro + PT,16,20
+neuro + PT,17,19
+neuro + PT,23,20
+neuro + PT,15,15
+neuro + PT,12,21
+neuro + PT,17,23
+neuro + PT,19,17
+neuro + PT,17,17
+neuro + PT,20,20
+neuro + PT,20,19
+neuro + PT,16,19
+neuro + PT,17,19
